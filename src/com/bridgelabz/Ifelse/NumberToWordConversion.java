@@ -1,5 +1,5 @@
 package com.bridgelabz.Ifelse;
-
+// Read a Number 1,10,100,1000 and display unit, ten hundred
 import java.util.Scanner;
 
 public class NumberToWordConversion {

@@ -1,7 +1,7 @@
 package com.bridgelabz.WhileLoop;
 
 import java.util.Scanner;
-
+//Write a Program to reverse the integer number eg. Input n=231 reverse is 132
 public class ReverseNumber {
     public static void main(String[] args) {
         int num,lastDigit,sum=0;

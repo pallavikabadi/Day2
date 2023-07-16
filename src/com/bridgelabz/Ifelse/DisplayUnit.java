@@ -1,11 +1,12 @@
 package com.bridgelabz.Ifelse;
-
+// Read a single Digit Number and write in word
 import java.util.Scanner;
 
 public class DisplayUnit {
     public static void main(String[] args) {
         int n;
-        System.out.println("Enter Unit: ");
+        //Scanner for taking input from user
+        System.out.println("Enter Number: ");
         Scanner r=new Scanner(System.in);
         n=r.nextInt();
 

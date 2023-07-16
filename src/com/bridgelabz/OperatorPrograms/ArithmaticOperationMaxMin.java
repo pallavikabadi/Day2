@@ -1,5 +1,9 @@
 package com.bridgelabz.OperatorPrograms;
+/*Enter two numbers and do the following arithmetic Operations find max and min.
+//i) a+b*c ii) c+a/b
+iii) a%b+c iV) a*b+c
 
+ */
 import java.util.Scanner;
 
 public class ArithmaticOperationMaxMin {

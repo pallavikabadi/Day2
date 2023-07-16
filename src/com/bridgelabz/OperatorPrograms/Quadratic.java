@@ -1,7 +1,7 @@
 package com.bridgelabz.OperatorPrograms;
 
 import java.util.Scanner;
-
+//Write a program Quadratic.java to find the roots of the equation a*x*x + b*x + c.
 public class Quadratic {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

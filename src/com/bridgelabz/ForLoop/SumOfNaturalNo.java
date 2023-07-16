@@ -1,5 +1,5 @@
 package com.bridgelabz.ForLoop;
-
+//Write a Program to find Palindrome Number
 import java.util.Scanner;
 
 public class SumOfNaturalNo {

@@ -1,5 +1,5 @@
 package com.bridgelabz.ForLoop;
-
+//Write a Program to find Palindrome Number
 public class PalindromeNumber {
     public static void main(String[] args) {
         int num=11311,reverse=0,rem,temp;
